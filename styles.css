@@ -1,0 +1,16 @@
+* { box-sizing: border-box; margin: 0; }
+body { font-family: sans-serif; 
+    margin: 0 auto; width: 1000px; 
+    color: #333; line-height: 1.5; 
+}
+.flex-row { display: flex; 
+    align-items: center; 
+}
+.space-between { 
+    justify-content: space-between; 
+}
+
+.nav-bar { padding: 20px; border-bottom: 1px solid #ddd; }
+
+.btn-primary { background: #2563EB; color: #fff; }
+
